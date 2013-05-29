@@ -1,0 +1,7 @@
+name: fireworksshootin
+main: pl.grzegorz2047.Fireworksshootin.Komendy
+version: 1.0
+author: grzegorz2047
+commands:
+  fw:
+    description: fireworkshootin commands
